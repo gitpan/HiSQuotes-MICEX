@@ -1,0 +1,6 @@
+Revision history for Perl extension HiSQuotes::MICEX.
+
+1.00  Wed Sep 10 11:34:03 2008
+	- original version; created by h2xs 1.23 with options
+		-XAn HiSQuotes::MICEX
+

@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/HiSQuotes-MICEX.t
+lib/HiSQuotes/MICEX.pm
+META.yml                                 Module meta-data (added by MakeMaker)

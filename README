@@ -1,0 +1,32 @@
+HiSQuotes-MICEX version 1.00
+============================
+
+HiSQuotes::MICEX - Site-specific class for retrieving historical stock
+quotes via Moscow Interbank Currency Exchange (MICEX) - Russia.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  DateTime
+  LWP::UserAgent
+  HTTP::Cookies
+  HTML::TableParser
+  Tie::IxHash
+
+COPYRIGHT AND LICENCE
+
+Copyright (c) 2008, Novikov Artem Gennadievich (novikovag@gmail.com). 
+All Rights Reserved. This program is free software. 
+You may copy and/or redistribute it under the same terms as Perl itself.
+
+
